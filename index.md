@@ -1,5 +1,5 @@
 ---
-title: <center>Welcome to the "Paris Postdocs Seminars" Initiative 😄</center>
+title: <center>Welcome to the Paris Postdocs Seminars Initiative 😄</center>
 date: 2025-05-09
 ---
 
