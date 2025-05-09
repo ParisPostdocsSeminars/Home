@@ -7,6 +7,5 @@ date: 2025-05-09
 
 - We are currently building a website for the 2025-2026 Seminar Series 
 
-<right>
-	Stay tuned!
-</right>
+> Stay tuned!
+
