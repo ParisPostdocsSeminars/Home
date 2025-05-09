@@ -1,11 +1,11 @@
 ---
-title: <center>Welcome to the Paris Postdocs Seminars Initiative 😄</center>
+title: Welcome!
 date: 2025-05-09
 ---
 
-# We are currently building a website for the 2025-2026 Seminar Series 
+## We are the Paris Postdocs Seminars Initiative
 
-<br>  
+- We are currently building a website for the 2025-2026 Seminar Series 
 
 <right>
 	Stay tuned!
