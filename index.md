@@ -3,6 +3,6 @@ title: Home
 date: 2025-05-09
 ---
 
-# Hello World !
+# Hello World!
 
-## We are PPS :happy:
+## We are PPS 😄
