@@ -1,6 +1,5 @@
 ---
-
-Title: Hello World! This is PPS :)
-Date: 05-09-2025
+title: Hello World! This is PPS :)
+date: 2025-05-09
 ---
 
