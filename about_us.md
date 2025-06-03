@@ -4,8 +4,8 @@ title: About us
 date: 2025-06-03
 nav_order: 1
 ---
-
-![Paris Postdocs Seminars Logo](/assets/pps_logo.png)
+s
+<img src="/assets/pps_logo.png" alt="Paris Postdocs Seminars Logo" style="display: block; margin: 2em auto; max-height: 100px;">
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
     <h2>What is the Paris Postdocs Seminars (PPS)?</h2>
