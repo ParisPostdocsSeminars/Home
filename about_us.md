@@ -4,6 +4,7 @@ title: About us
 date: 2025-06-03
 nav_order: 1
 ---
+![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif;">
     <h2>What is the Paris Postdocs Seminars (PPS)?</h2>
@@ -39,4 +40,4 @@ nav_order: 1
     </div>
 </section>
 
-![Paris Postdocs Seminars Header](/assets/pps_logo.png)
+
