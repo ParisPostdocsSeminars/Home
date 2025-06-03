@@ -62,6 +62,7 @@ nav_order: 1
 </section>
 
 <h3>We can't wait to hear more about your work! 🤓</h3>
+<br>
 <em>The Paris Postdocs Seminars Committee</em>
 <br>
 
