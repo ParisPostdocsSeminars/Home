@@ -22,7 +22,7 @@ nav_order: 1
 
 <h2>Where will you present?</h2>
 <section style="max-width: 1000px; margin: 1em auto; padding: 1em; font-family: sans-serif;">
-    <p>If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and June 2026</em>.</p>
+    <p>If selected, you'll have the opportunity to present your research at one of these institutes between <strong>September 2025 and June 2026</strong>.</p>
       <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
         <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
         <a href="https://www.crcordeliers.fr/" target="_blank"><img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;"></a>
