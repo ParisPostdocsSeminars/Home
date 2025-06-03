@@ -11,7 +11,7 @@ nav_order: 1
   <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
-  <p style="font-size: 1em; font-weight: bold;">
+  <p style="font-size: 1.1em; font-weight: bold;">
     👉 The <strong>Paris Postdocs Seminars</strong> are looking for new speakers for their <strong>2025–2026 series</strong>!
   </p>
 
@@ -24,9 +24,9 @@ nav_order: 1
   </p>
 </section>
 
-# Where will you present?
+## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our Postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
+  <p>Our postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="/assets/institute1.png" alt="Institute 1" style="height: 60px;">
     <img src="/assets/institute2.png" alt="Institute 2" style="height: 60px;">
@@ -43,4 +43,16 @@ nav_order: 1
   </div>
 </section>
 
-# Our topics of interest
+## Our topics of interest
+
+<footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
+  <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a></p>
+  <p>
+    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
+      <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
+    </a>
+    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
+      <img src="/assets/linkedin-icon.png" alt="LinkedIn" style="height: 30px; margin: 0 10px;">
+    </a>
+  </p>
+</footer>
