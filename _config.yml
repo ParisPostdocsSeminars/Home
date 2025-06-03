@@ -2,7 +2,7 @@
 remote_theme: just-the-docs/just-the-docs
 ---
 
-title: Paris Postdocs Seminars
+title: "<img src='/assets/pps_logo.png' alt='PPS' style='height:40px; vertical-align: middle;'> Paris Postdocs Seminars"
 author: Savandara Besse (in collaboration with Paris postdocs Consortium)
 description: Call for Speakers 2025–2026
 
@@ -13,6 +13,8 @@ nav_sort: case_insensitive
 # Plugins GitHub Pages supports
 plugins:
   - jekyll-remote-theme
+
+
 
 # Social links in navbar (optional)
 aux_links:

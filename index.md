@@ -10,7 +10,7 @@ nav_order: 1
 
 # Paris Postdocs Seminars
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <p>Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
+  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1.1em; font-weight: bold;">
