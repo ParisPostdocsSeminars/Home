@@ -10,17 +10,16 @@ nav_order: 1
         <p>
         The <strong>PPS</strong> is a collaborative initiative between research institutes in Paris and its surrounding area. 
         Our mission is to foster scientific exchange by inviting postdoctoral researchers to present their work at partner institutes.
-        Launched in 2023, PPS hosts an annual seminar series that runs from <strong>September to June</strong>.
+        Since 2023, PPS hosts an annual seminar series that runs from <strong>September to June</strong>.
         </p>
 
-    <h2>How do postdocs benefit from participating?</h2>
+    <h2>Why participate?</h2>
         <p>
-        Postdocs often have limited opportunities to give long-format presentations on their own research. 
-        PPS provides a platform for them to deliver 45-minute seminars, gain visibility beyond their home institute, 
-        and connect with other scientists across the Paris research community—encouraging new ideas and collaborations.
+        PPS offers postdocs a rare opportunity to give 45-minute talks on their research, gain visibility beyond their institute, and build collaborations across the Paris scientific community.
         </p>
 
-    <h2>Which institutes are part of the PPS for 2025-2026 series?</h2>
+    <h2>Who is involved in the 2025–2026 series?</h2>
+    <p>Thirteen Paris-based institutes are participating in the upcoming edition—offering a vibrant network for research exchange and visibility.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
         <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
         <a href="https://www.crcordeliers.fr/" target="_blank"><img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;"></a>
