@@ -20,7 +20,7 @@ nav_order: 1
   <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
 </section>
 
-<h2>Where will you present?</h2>s
+<h2>Where will you present?</h2>
 <section style="max-width: 1000px; margin: 1em auto; padding: 1em; font-family: sans-serif;">
     <p>If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and June 2026</em>.</p>
       <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
