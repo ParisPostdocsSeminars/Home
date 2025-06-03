@@ -8,7 +8,7 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
+  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1.1em; font-weight: bold;">
@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint-collaboration between <strong>13 institutes</strong>.</p>
+  <p>Our postdoc consortium is a joint initiative between <strong>13 Paris-based institutes</strong>:</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 60px;">
     <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 60px;">
@@ -46,6 +46,26 @@ nav_order: 1
 
 
 ## Our topics of interest
+
+<section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
+  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+    <span style="font-size: 1.2em; color: #1f77b4;">Immunology</span>
+    <span style="font-size: 1.4em; color: #ff7f0e;">Genomes, genetics and epigenetics</span>
+    <span style="font-size: 1.1em; color: #2ca02c;">Developmental biology</span>
+    <span style="font-size: 1.3em; color: #d62728;">Neuroscience</span>
+    <span style="font-size: 1.5em; color: #9467bd;">Computational biology and bioinformatics</span>
+    <span style="font-size: 1.2em; color: #8c564b;">Cell biology</span>
+    <span style="font-size: 1em; color: #e377c2;">Metabolism</span>
+    <span style="font-size: 1.3em; color: #7f7f7f;">Disease physiology, pathophysiology and aging</span>
+    <span style="font-size: 1.1em; color: #bcbd22;">Oncology</span>
+    <span style="font-size: 1.4em; color: #17becf;">Translational medicine and synthetic biology</span>
+    <span style="font-size: 1em; color: #1f77b4;">Epidemiology</span>
+    <span style="font-size: 1.2em; color: #ff7f0e;">Microbiology (Bacteriology, Parasitology, Virology, Mycology)</span>
+    <span style="font-size: 1.1em; color: #2ca02c;">Ecology and evolutionary biology</span>
+    <span style="font-size: 1.3em; color: #d62728;">Biophysics and mechanobiology</span>
+  </div>
+</section>
+
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a></p>
