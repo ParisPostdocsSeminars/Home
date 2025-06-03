@@ -19,7 +19,7 @@ date: 2025-06-03
   .top-logo {
     position: absolute;
     top: 1em;
-    right: 1em;
+    left: 1em;
     height: 60px;
   }
 </style>
@@ -45,7 +45,7 @@ date: 2025-06-03
   </p>
 </section>
 
-# Where will you present?
+## Where will you present?
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
   <p>Our postdoc consortium is a joint collaboration between <strong>12 institutes</strong>.</p>
@@ -65,7 +65,10 @@ date: 2025-06-03
   </div>
 </section>
 
-# Our topics of interest
+## Our topics of interest
+
+
+___ 
 
 <footer style="margin-top: 2em; text-align: center;">
   <a href="https://bsky.app/profile/yourprofile" target="_blank">
