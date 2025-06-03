@@ -7,8 +7,6 @@ nav_order: 1
 
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
-
-# Paris Postdocs Seminars
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
   <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
@@ -46,16 +44,3 @@ nav_order: 1
 </section>
 
 # Our topics of interest
-
-
-<footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a></p>
-  <p>
-    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
-      <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
-    </a>
-    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
-      <img src="/assets/linkedin-icon.png" alt="LinkedIn" style="height: 30px; margin: 0 10px;">
-    </a>
-  </p>
-</footer>

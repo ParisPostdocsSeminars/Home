@@ -2,9 +2,9 @@
 remote_theme: just-the-docs/just-the-docs
 ---
 
-title: "<img src='/assets/pps_logo.png' alt='PPS' style='height:40px; vertical-align: middle;'> Paris Postdocs Seminars"
+title: Paris Postdocs Seminars
 author: Savandara Besse (in collaboration with Paris postdocs Consortium)
-description: Call for Speakers 2025–2026
+description: PPS Official Website
 
 
 # Optional: Navigation order (used by Just the Docs)
@@ -14,14 +14,16 @@ nav_sort: case_insensitive
 plugins:
   - jekyll-remote-theme
 
+footer_content: |
+  <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
+    <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
+  </a>
+  <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
+    <img src="/assets/linkedin-icon.png" alt="LinkedIn" style="height: 30px; margin: 0 10px;">
+  </a>
+  <br>
+  📧 <a href="mailto:paris.postdocs@gmail.com">paris.postdocs@gmail.com</a>
 
-
-# Social links in navbar (optional)
-aux_links:
-  "LinkedIn":
-    - "https://www.linkedin.com/company/paris-postdocs-seminars"
-  "Bluesky":
-    - "https://bsky.app/profile/parispostdocs.bsky.social"
 
 # Disable strict front matter
 strict_front_matter: false

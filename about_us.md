@@ -9,4 +9,6 @@ nav_order: 1
 
 ## Timeline
 
-## Statistics
+## About the 2024-2025 series
+
+## About the 2023-2024 series
