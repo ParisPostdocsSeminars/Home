@@ -11,7 +11,7 @@ nav_order: 1
   <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
-  <p style="font-size: 1.1em; font-weight: bold; text-align: center;">
+  <p style="font-size: 1em; font-weight: bold;">
     👉 The <strong>Paris Postdocs Seminars</strong> are looking for new speakers for their <strong>2025–2026 series</strong>!
   </p>
 
