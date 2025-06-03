@@ -20,7 +20,7 @@ nav_order: 1
   <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
 </section>
 
-## Where will you present?
+### Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
   If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and May 2026</em>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
@@ -41,7 +41,7 @@ nav_order: 1
 </section>
 
 
-## Feel free to talk about...
+### Feel free to talk about...
 
 <section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
@@ -62,10 +62,10 @@ nav_order: 1
   </div>
 </section>
 
-## We can't wait to hear more about your work! 🤓
+### We can't wait to hear more about your work! 🤓
 
-### <em>The Paris Postdocs Seminars Committee</em>
-
+<em>The Paris Postdocs Seminars Committee</em>
+<br>
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a></p>
   <p style="display: flex; justify-content: center; gap: 2em;">
