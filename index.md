@@ -28,19 +28,19 @@ nav_order: 1
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
   <p>Our postdoc consortium is a joint initiative between <strong>13 Paris-based institutes</strong>. If you get selected, you can present among one of these institutes, between September 2025 to May 2026: </p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
-    <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 60px;">
-    <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 60px;">
-    <img src="{{ '/assets/curie_logo.jpeg' | relative_url }}" alt=" Institut Curie" style="height: 60px;">
-    <img src="{{ '/assets/ibens_logo.png' | relative_url }}" alt="Institut de l'Ecole Normale Supérieure" style="height: 60px;">
-    <img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences" style="height: 60px;">
-    <img src="{{ '/assets/imagine_logo.png' | relative_url }}" alt="Institut Imagine" style="height: 60px;">
-    <img src="{{ '/assets/ijm_logo.png' | relative_url }}" alt="Institut Jacques Monod" style="height: 60px;">
-    <img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Neckerr Enfants Malades" style="height: 60px;">
-    <img src="{{ '/assets/ipbs_logo.png' | relative_url }}" alt="Institut Paris Biologie Seine" style="height: 60px;">
-    <img src="{{ '/assets/parcc_logo.png' | relative_url }}" alt="Paris Cardiovascular Research Center" style="height: 60px;">
-    <img src="{{ '/assets/pasteur_logo.png' | relative_url }}" alt="Institut Pasteur" style="height: 60px;">
-    <img src="{{ '/assets/pbi_logo.jpeg' | relative_url }}" alt="Institut du Cerveau" style="height: 60px;">
-    <img src="{{ '/assets/polytech_paris_saclay_logo.jpeg' | relative_url }}" alt="Polytech Paris-Saclay" style="height: 60px;">
+    <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;">
+    <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;">
+    <img src="{{ '/assets/curie_logo.jpeg' | relative_url }}" alt=" Institut Curie" style="height: 80px;">
+    <img src="{{ '/assets/ibens_logo.png' | relative_url }}" alt="Institut de Biologie de l'Ecole Normale Supérieure" style="height: 80px;">
+    <img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences Fondamentales" style="height: 80px;">
+    <img src="{{ '/assets/imagine_logo.png' | relative_url }}" alt="Institut Imagine" style="height: 80px;">
+    <img src="{{ '/assets/ijm_logo.png' | relative_url }}" alt="Institut Jacques Monod" style="height: 80px;">
+    <img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Necker Enfants Malades" style="height: 80px;">
+    <img src="{{ '/assets/ipbs_logo.png' | relative_url }}" alt="Institut Paris Biologie Seine" style="height: 80px;">
+    <img src="{{ '/assets/parcc_logo.png' | relative_url }}" alt="Paris Cardiovascular Research Center" style="height: 80px;">
+    <img src="{{ '/assets/pasteur_logo.png' | relative_url }}" alt="Institut Pasteur" style="height: 80px;">
+    <img src="{{ '/assets/pbi_logo.jpeg' | relative_url }}" alt="Institut du Cerveau" style="height: 80px;">
+    <img src="{{ '/assets/polytech_paris_saclay_logo.jpeg' | relative_url }}" alt="Polytech Paris-Saclay" style="height: 80px;">
   </div>
 </section>
 
