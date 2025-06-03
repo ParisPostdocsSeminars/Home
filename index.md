@@ -28,18 +28,19 @@ nav_order: 1
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
   <p>Our postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
-    <img src="/assets/institute1.png" alt="Institute 1" style="height: 60px;">
-    <img src="/assets/institute2.png" alt="Institute 2" style="height: 60px;">
-    <img src="/assets/institute3.png" alt="Institute 3" style="height: 60px;">
-    <img src="/assets/institute4.png" alt="Institute 4" style="height: 60px;">
-    <img src="/assets/institute5.png" alt="Institute 5" style="height: 60px;">
-    <img src="/assets/institute6.png" alt="Institute 6" style="height: 60px;">
-    <img src="/assets/institute7.png" alt="Institute 7" style="height: 60px;">
-    <img src="/assets/institute8.png" alt="Institute 8" style="height: 60px;">
-    <img src="/assets/institute9.png" alt="Institute 9" style="height: 60px;">
-    <img src="/assets/institute10.png" alt="Institute 10" style="height: 60px;">
-    <img src="/assets/institute11.png" alt="Institute 11" style="height: 60px;">
-    <img src="/assets/institute12.png" alt="Institute 12" style="height: 60px;">
+    <img src="/assets/cochin_logo.jpeg" alt="Institut Cochin" style="height: 60px;">
+    <img src="/assets/cordeliers_logo.jpeg" alt="Institut des Cordeliers" style="height: 60px;">
+    <img src="/assets/curie_logo.jpeg" alt="Institut Curie" style="height: 60px;">
+    <img src="/assets/ens_logo.jpeg" alt="Institut de l'Ecole Normale Supérieure" style="height: 60px;">
+    <img src="/assets/fds-upc_logo.jpeg" alt="Faculté des Sciences - Université Paris Cité" style="height: 60px;">
+    <img src="/assets/imagine_logo.jpeg" alt="Institut Imagine" style="height: 60px;">
+    <img src="/assets/ijm_logo.jpeg" alt="Institut Jacques Monod" style="height: 60px;">
+    <img src="/assets/inem_logo.jpeg" alt="Institut Necker Enfants Malades" style="height: 60px;">
+    <img src="/assets/ipbs_logo.jpeg" alt="IPBS" style="height: 60px;">
+    <img src="/assets/parcc_logo.jpeg" alt="PARCC" style="height: 60px;">
+    <img src="/assets/pasteur_logo.jpeg" alt="Institut Pasteur" style="height: 60px;">
+    <img src="/assets/pbi_logo.jpeg" alt="PBI" style="height: 60px;">
+    <img src="/assets/polytech_paris_saclay_logo.jpeg" alt="Polytech Paris-Saclay" style="height: 60px;">
   </div>
 </section>
 
