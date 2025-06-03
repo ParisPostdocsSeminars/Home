@@ -8,15 +8,15 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working in one of 13 <strong>Paris-based institutes</strong> involved in the initiative <bold>Paris Postdocs Seminars</bold>?</p>
+  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working in one of the 13 <strong>Paris-based institutes</strong> involved in the initiative <bold>Paris Postdocs Seminars</bold>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1em; font-weight: bold;">
-    👉 The <strong>Paris Postdocs Seminars</strong> are looking for new speakers for their <strong>2025–2026 series</strong>!
+    👉 We are looking for new speakers for their <strong>2025–2026 series</strong>!
   </p>
 
   <p>
-    This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.
+    This is your chance to present your work in other Parisian institutes with similar topics as your research, expand your scientific network and foster cross-institute collaborations.
   </p>
 
   <p>
@@ -26,7 +26,6 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint initiative between <strong>13 Paris-based institutes</strong>.<br>
   If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and May 2026</em>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
