@@ -51,19 +51,19 @@ nav_order: 1
 <section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Immunology</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Genomes, genetics and epigenetics</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Genomes, genetics & epigenetics</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Developmental biology</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Neuroscience</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Computational biology and bioinformatics</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Computational biology & bioinformatics</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Cell biology</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Metabolism</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Disease physiology, pathophysiology and aging</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Disease physiology, pathology & ageing</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Oncology</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Translational medicine and synthetic biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Translational medicine & synthetic biology</span>
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Epidemiology</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Microbiology (Bacteriology, Parasitology, Virology, Mycology)</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Ecology and evolutionary biology</span>
-    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Biophysics and mechanobiology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Microbiology (Bacteriology, Parasitology, Virology & Mycology)</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Ecology & evolutionary biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Biophysics & mechanobiology</span>
   </div>
 </section>
 
