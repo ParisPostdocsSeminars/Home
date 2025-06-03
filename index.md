@@ -7,7 +7,7 @@ nav_order: 1
 
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
-<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
+<section style="max-width: 1000px; margin: 1em auto; padding: 1em; font-family: sans-serif; position: relative;">
   <p>🧑‍🔬👩‍💻 Are you a <strong>Life Sciences postdoc</strong> affiliated with one of the <strong>13 research institutes</strong> behind the Paris Postdocs Seminars?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
@@ -21,7 +21,7 @@ nav_order: 1
 </section>
 
 <h2>Where will you present?</h2>s
-<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 1000px; margin: 1em auto; padding: 1em; font-family: sans-serif;">
     <p>If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and June 2026</em>.</p>
       <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
         <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
@@ -41,7 +41,7 @@ nav_order: 1
 </section>
 
 <h2>Feel free to talk about...</h2>
-<section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
+<section style="max-width: 1000px; margin: 1em auto; text-align: center; font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Immunology</span>
       <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Genomes, Genetics & Epigenetics</span>
