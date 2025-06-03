@@ -20,7 +20,7 @@ nav_order: 1
   <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
 </section>
 
-<h2>Where will you present?</h2>
+## Where will you present?
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
     <p>If selected, you'll have the opportunity to present your research at one of these institutes between <strong>September 2025 and June 2026</strong>.</p>
       <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
@@ -40,7 +40,7 @@ nav_order: 1
       </div>
 </section>
 
-<h2>Feel free to talk about...</h2>
+## Feel free to talk about...
 <section style="max-width: 1000px; margin: 0.5em auto; text-align: center; font-family: sans-serif;">
     <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
       <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Immunology</span>
