@@ -18,6 +18,17 @@ date: 2025-06-03
     This is your chance to present your work at other top institutes and foster cross-institute collaborations.
   </p>
 
-  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">🔗 Register here</a></p>
+  <p>
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">🔗 Register here</a>
+  </p>
 
 </section>
+
+# Where will you present?
+
+<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
+<p>Our postdoc consortium is a joint-collaboration between <bold>12</bold>institutes.</p>
+</section>
+
+# Our topics of interest 
+
