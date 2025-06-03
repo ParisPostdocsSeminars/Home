@@ -61,7 +61,7 @@ nav_order: 1
 </section>
 
 ## We can't wait to hear more about your work! 🤓
-### <em>The Paris Postdocs Seminars Committee</em>
+### The Paris Postdocs Seminars Committee
 <br>
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
