@@ -16,7 +16,7 @@ nav_order: 1
   </p>
 
   <p>
-    This is your chance to present your work at other top institutes and foster cross-institute collaborations.
+    This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.
   </p>
 
   <p>
