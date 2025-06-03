@@ -1,14 +1,15 @@
 ---
 layout: default
-title: PPS
+title: News
 date: 2025-06-03
 nav_order: 1
 ---
 
-# Paris Postdocs Seminars
+<img src="/assets/pps_logo.png" alt="PPS Logo" style="position: absolute; top: 0; left: 0; height: 60px;">
 
+
+# Paris Postdocs Seminars
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <img src="/assets/pps_logo.png" alt="PPS Logo" style="position: absolute; top: 0; right: 0; height: 60px;">
   <p>Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
@@ -26,7 +27,6 @@ nav_order: 1
 </section>
 
 # Where will you present?
-
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
   <p>Our postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
@@ -46,6 +46,7 @@ nav_order: 1
 </section>
 
 # Our topics of interest
+
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <p><a href="mailto:paris.postdocs@gmail.com">📧 Contact us</a></p>
