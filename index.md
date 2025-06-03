@@ -18,6 +18,6 @@ date: 2025-06-03
     This is your chance to present your work at other top institutes and foster cross-institute collaborations.
   </p>
 
-  <p><a href="https://lnkd.in/eUz5t8Dy" target="_blank" style="font-weight: bold; color: #0077b5;">🔗 Register here</a></p>
+  <p><a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">🔗 Register here</a></p>
 
 </section>
