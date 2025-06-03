@@ -8,20 +8,16 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working in one of the 13 <strong>Paris-based institutes</strong> involved in the initiative <bold>Paris Postdocs Seminars</bold>?</p>
+  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working in one of the <strong>13 Paris-based institutes</strong> involved in the initiative <bold>Paris Postdocs Seminars</bold>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1em; font-weight: bold;">
     👉 We are looking for new speakers for their <strong>2025–2026 series</strong>!
   </p>
 
-  <p>
-    This is your chance to present your work in other Parisian institutes with similar topics as your research, expand your scientific network and foster cross-institute collaborations.
-  </p>
+  <p>This is your chance to present your work in other Parisian institutes with similar topics as your research, expand your scientific network and foster cross-institute collaborations.</p>
 
-  <p>
-    🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a>
-  </p>
+  <p>🔗 <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">Register here</a></p>
 </section>
 
 ## Where will you present?
