@@ -30,18 +30,18 @@ nav_order: 1
   If selected, you'll have the opportunity to present your research at one of these institutes between <em>September 2025 and May 2026</em>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
-    <a href="https://www.institutfds.upc.fr/cordeliers" target="_blank"><img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;"></a>
+    <a href="https://www.crcordeliers.fr/" target="_blank"><img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;"></a>
     <a href="https://www.curie.fr" target="_blank"><img src="{{ '/assets/curie_logo.jpeg' | relative_url }}" alt=" Institut Curie" style="height: 80px;"></a>
     <a href="https://www.ibens.ens.psl.eu" target="_blank"><img src="{{ '/assets/ibens_logo.png' | relative_url }}" alt="Institut de Biologie de l'Ecole Normale Supérieure" style="height: 80px;"></a>
-    <a href="https://sciences.u-paris.fr" target="_blank"><img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences Fondamentales" style="height: 80px;"></a>
+    <a href="https://biomedicale.u-paris.fr/" target="_blank"><img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences Fondamentales" style="height: 80px;"></a>
     <a href="https://www.institutimagine.org" target="_blank"><img src="{{ '/assets/imagine_logo.png' | relative_url }}" alt="Institut Imagine" style="height: 80px;"></a>
     <a href="https://www.ijm.fr" target="_blank"><img src="{{ '/assets/ijm_logo.png' | relative_url }}" alt="Institut Jacques Monod" style="height: 80px;"></a>
-    <a href="https://www.inem.aphp.fr" target="_blank"><img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Necker Enfants Malades" style="height: 80px;"></a>
-    <a href="https://ipbs.fr" target="_blank"><img src="{{ '/assets/ipbs_logo.png' | relative_url }}" alt="Institut Paris Biologie Seine" style="height: 80px;"></a>
-    <a href="https://www.parcc.inserm.fr" target="_blank"><img src="{{ '/assets/parcc_logo.png' | relative_url }}" alt="Paris Cardiovascular Research Center" style="height: 80px;"></a>
+    <a href="https://www.institut-necker-enfants-malades.fr/" target="_blank"><img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Necker Enfants Malades" style="height: 80px;"></a>
+    <a href="https://www.ibps.sorbonne-universite.fr/fr" target="_blank"><img src="{{ '/assets/ipbs_logo.png' | relative_url }}" alt="Institut Paris Biologie Seine" style="height: 80px;"></a>
+    <a href="https://parcc.inserm.fr/" target="_blank"><img src="{{ '/assets/parcc_logo.png' | relative_url }}" alt="Paris Cardiovascular Research Center" style="height: 80px;"></a>
     <a href="https://www.pasteur.fr" target="_blank"><img src="{{ '/assets/pasteur_logo.png' | relative_url }}" alt="Institut Pasteur" style="height: 80px;"></a>
     <a href="https://icm-institute.org" target="_blank"><img src="{{ '/assets/pbi_logo.jpeg' | relative_url }}" alt="Institut du Cerveau" style="height: 80px;"></a>
-    <a href="https://www.polytech.paris-saclay.fr" target="_blank"><img src="{{ '/assets/polytech_paris_saclay_logo.jpeg' | relative_url }}" alt="Polytech Paris-Saclay" style="height: 80px;"></a>
+    <a href="https://www.polytech.universite-paris-saclay.fr/" target="_blank"><img src="{{ '/assets/polytech_paris_saclay_logo.jpeg' | relative_url }}" alt="Polytech Paris-Saclay" style="height: 80px;"></a>
   </div>
 </section>
 
