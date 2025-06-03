@@ -2,33 +2,13 @@
 layout: default
 title: PPS
 date: 2025-06-03
+nav_order: 1
 ---
-
-<style>
-  .logo-row {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 1em;
-    justify-content: center;
-    margin: 1em 0;
-  }
-  .logo-row img {
-    height: 50px;
-    object-fit: contain;
-  }
-  .top-logo {
-    position: absolute;
-    top: 1em;
-    left: 1em;
-    height: 60px;
-  }
-</style>
-
-<img src="/assets/images/pps_logo.png" alt="PPS Logo" class="top-logo" />
 
 # Paris Postdocs Seminars
 
-<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
+  <img src="/assets/pps_logo.png" alt="PPS Logo" style="position: absolute; top: 0; right: 0; height: 60px;">
   <p>Are you a postdoc in <strong>biology</strong>, <strong>bioinformatics</strong>, or any related fields working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
@@ -45,36 +25,36 @@ date: 2025-06-03
   </p>
 </section>
 
-## Where will you present?
+# Where will you present?
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint collaboration between <strong>12 institutes</strong>.</p>
-  <div class="logo-row">
-    <img src="/assets/images/institute1.png" alt="Institute 1" />
-    <img src="/assets/images/institute2.png" alt="Institute 2" />
-    <img src="/assets/images/institute3.png" alt="Institute 3" />
-    <img src="/assets/images/institute4.png" alt="Institute 4" />
-    <img src="/assets/images/institute5.png" alt="Institute 5" />
-    <img src="/assets/images/institute6.png" alt="Institute 6" />
-    <img src="/assets/images/institute7.png" alt="Institute 7" />
-    <img src="/assets/images/institute8.png" alt="Institute 8" />
-    <img src="/assets/images/institute9.png" alt="Institute 9" />
-    <img src="/assets/images/institute10.png" alt="Institute 10" />
-    <img src="/assets/images/institute11.png" alt="Institute 11" />
-    <img src="/assets/images/institute12.png" alt="Institute 12" />
+  <p>Our postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
+  <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
+    <img src="/assets/institute1.png" alt="Institute 1" style="height: 60px;">
+    <img src="/assets/institute2.png" alt="Institute 2" style="height: 60px;">
+    <img src="/assets/institute3.png" alt="Institute 3" style="height: 60px;">
+    <img src="/assets/institute4.png" alt="Institute 4" style="height: 60px;">
+    <img src="/assets/institute5.png" alt="Institute 5" style="height: 60px;">
+    <img src="/assets/institute6.png" alt="Institute 6" style="height: 60px;">
+    <img src="/assets/institute7.png" alt="Institute 7" style="height: 60px;">
+    <img src="/assets/institute8.png" alt="Institute 8" style="height: 60px;">
+    <img src="/assets/institute9.png" alt="Institute 9" style="height: 60px;">
+    <img src="/assets/institute10.png" alt="Institute 10" style="height: 60px;">
+    <img src="/assets/institute11.png" alt="Institute 11" style="height: 60px;">
+    <img src="/assets/institute12.png" alt="Institute 12" style="height: 60px;">
   </div>
 </section>
 
-## Our topics of interest
+# Our topics of interest
 
-
-___ 
-
-<footer style="margin-top: 2em; text-align: center;">
-  <a href="https://bsky.app/profile/yourprofile" target="_blank">
-    <img src="/assets/icons/bluesky.png" alt="Bluesky" style="height: 30px; margin-right: 1em;" />
-  </a>
-  <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
-    <img src="/assets/icons/linkedin.png" alt="LinkedIn" style="height: 30px;" />
-  </a>
+<footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
+  <p>📧 Contact us at: <a href="mailto:paris.postdocs.seminars@gmail.com">paris.postdocs.seminars@gmail.com</a></p>
+  <p>
+    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
+      <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
+    </a>
+    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
+      <img src="/assets/linkedin-icon.png" alt="LinkedIn" style="height: 30px; margin: 0 10px;">
+    </a>
+  </p>
 </footer>

@@ -1,8 +1,25 @@
 ---
-theme: minima
+remote_theme: just-the-docs/just-the-docs
 ---
 
 title: Paris Postdocs Seminars
 author: Savandara Besse (in collaboration with Paris postdocs Consortium)
-description: Paris Postdocs Seminars Official Website
+description: Call for Speakers 2025–2026
 
+
+# Optional: Navigation order (used by Just the Docs)
+nav_sort: case_insensitive
+
+# Plugins GitHub Pages supports
+plugins:
+  - jekyll-remote-theme
+
+# Social links in navbar (optional)
+aux_links:
+  "LinkedIn":
+    - "https://www.linkedin.com/company/paris-postdocs-seminars"
+  "Bluesky":
+    - "https://bsky.app/profile/parispostdocs.bsky.social"
+
+# Disable strict front matter
+strict_front_matter: false
