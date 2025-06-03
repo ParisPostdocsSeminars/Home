@@ -6,7 +6,7 @@ nav_order: 1
 ---
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
-<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 800px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
     <h2>What is the Paris Postdocs Seminars (PPS)?</h2>
         <p>
         The <strong>PPS</strong> is a collaborative initiative between research institutes in Paris and its surrounding area.  Our mission is to foster scientific exchange by inviting postdoctoral researchers to present their work at partner institutes. Since 2023, PPS hosts an annual seminar series that runs from <strong>September to June</strong>.
