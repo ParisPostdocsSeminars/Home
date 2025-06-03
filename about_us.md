@@ -4,23 +4,22 @@ title: About us
 date: 2025-06-03
 nav_order: 1
 ---
-![Paris Postdocs Seminars Header](/assets/pps_logo.png)
 
-<section style="max-width: 1000px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif;">
     <h2>What is the Paris Postdocs Seminars (PPS)?</h2>
         <p>
         The <strong>PPS</strong> is a collaborative initiative between research institutes in Paris and its surrounding area. <br>Our mission is to <strong>foster scientific exchange</strong> by inviting postdoctoral researchers to present their work at partner institutes.<br> Since 2023, PPS hosts an annual seminar series that runs from <strong>September to June</strong>.
         </p>
 </section>
 
-<section style="max-width: 1000px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif;">
     <h2>Why participate?</h2>
         <p>
         PPS offers postdocs a rare opportunity to give 45-minute talks on their research, gain visibility beyond their institute, and build collaborations across the Paris scientific community.
         </p>
 </section>
 
-<section style="max-width: 1000px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
+<section style="max-width: 1000px; margin: 0.5em auto; padding: 0.5em; font-family: sans-serif;">
     <h2>Who is involved in the 2025–2026 series?</h2>
     <p>Thirteen Paris-based institutes are participating in the upcoming edition—offering a vibrant network for research exchange and visibility.</p>
     <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
@@ -39,3 +38,5 @@ nav_order: 1
         <a href="https://www.polytech.universite-paris-saclay.fr/" target="_blank"><img src="{{ '/assets/polytech_paris_saclay_logo.jpeg' | relative_url }}" alt="Polytech Paris-Saclay" style="height: 80px;"></a>
     </div>
 </section>
+
+![Paris Postdocs Seminars Header](/assets/pps_logo.png)
