@@ -72,7 +72,7 @@ nav_order: 1
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <p>
     <a href="mailto:paris.postdocs@gmail.com">Contact us</a>
-    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank"></a>
-    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank"></a>
+    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">BlueSky</a>
+    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">LinkedIn</a>
   </p>
 </footer>
