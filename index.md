@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint initiative between 13 Paris-based institutes. If selected, you’ll have the opportunity to present your work at one of these institutes between <bold>September 2025 and May 2026</bold></p>
+  <p>Our postdoc consortium is a joint initiative between <bold>13 Paris-based institutes</bold>. If selected, you'll have the opportunity to present your research at one of these institutes <italic>between September 2025 and May 2026</italic>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;">
     <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;">
