@@ -8,7 +8,7 @@ nav_order: 1
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
-  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working at a <strong>Paris-based institute</strong>?</p>
+  <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working in one of 13 <strong>Paris-based institutes</strong> involved in the initiative <bold>Paris Postdocs Seminars</bold>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1em; font-weight: bold;">
