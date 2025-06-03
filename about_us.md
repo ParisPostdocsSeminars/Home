@@ -12,7 +12,7 @@ nav_order: 1
         The <strong>PPS</strong> is a collaborative initiative between research institutes in Paris and its surrounding area. <br>Our mission is to <strong>foster scientific exchange</strong> by inviting postdoctoral researchers to present their work at partner institutes.<br> Since 2023, PPS hosts an annual seminar series that runs from <strong>September to June</strong>.
         </p>
 </section>
-s
+
 <section style="max-width: 1000px; margin: 0.5em auto; padding: 1em; font-family: sans-serif;">
     <h2>Why participate?</h2>
         <p>

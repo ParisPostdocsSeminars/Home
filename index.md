@@ -1,6 +1,6 @@
 ---
 layout: default
-title: News
+title: 2025-2026 Call
 date: 2025-06-03
 nav_order: 1
 ---
