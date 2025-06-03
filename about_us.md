@@ -20,7 +20,7 @@ nav_order: 1
         and connect with other scientists across the Paris research community—encouraging new ideas and collaborations.
         </p>
 
-    <h2>Which institutes are part of the PPS?</h2>
+    <h2>Which institutes are part of the PPS for 2025-2026 series?</h2>
     <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
         <a href="https://institutcochin.fr" target="_blank"><img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;"></a>
         <a href="https://www.crcordeliers.fr/" target="_blank"><img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;"></a>
