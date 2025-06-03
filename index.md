@@ -5,7 +5,7 @@ date: 2025-06-03
 nav_order: 1
 ---
 
-<img src="/assets/pps_logo.png" alt="PPS Logo" style="position: absolute; top: 0; left: 0; height: 60px;">
+![Paris Postdocs Logo](/assets/pps_logo.png)
 
 
 # Paris Postdocs Seminars
@@ -49,7 +49,7 @@ nav_order: 1
 
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <p><a href="mailto:paris.postdocs@gmail.com">📧 Contact us</a></p>
+  <p>📧<a href="mailto:paris.postdocs@gmail.com">Contact us</a></p>
   <p>
     <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
       <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
