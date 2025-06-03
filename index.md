@@ -12,7 +12,7 @@ nav_order: 1
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
   <p style="font-size: 1em; font-weight: bold;">
-    👉 We are looking for new speakers for their <strong>2025–2026 series</strong>!
+    👉 We are looking for new speakers for our <strong>2025–2026 series</strong>!
   </p>
 
   <p>This is your chance to present your work in other Parisian institutes, expand your scientific network and foster cross-institute collaborations.</p>
