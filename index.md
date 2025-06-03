@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint-collaboration between <strong>12 institutes</strong>.</p>
+  <p>Our postdoc consortium is a joint-collaboration between <strong>13 institutes</strong>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="/assets/cochin_logo.jpeg" alt="Institut Cochin" style="height: 60px;">
     <img src="/assets/cordeliers_logo.jpeg" alt="Institut des Cordeliers" style="height: 60px;">
