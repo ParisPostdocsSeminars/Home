@@ -42,7 +42,6 @@ nav_order: 1
 
 
 <h2>Feel free to talk about...</h2>
-
 <section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Immunology</span>
