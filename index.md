@@ -45,27 +45,28 @@ nav_order: 1
 </section>
 
 
-## Our topics of interest
+## Feel free to talk about...
 
 <section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px;">
-    <span style="font-size: 1.2em; color: #1f77b4;">Immunology</span>
-    <span style="font-size: 1.4em; color: #ff7f0e;">Genomes, genetics and epigenetics</span>
-    <span style="font-size: 1.1em; color: #2ca02c;">Developmental biology</span>
-    <span style="font-size: 1.3em; color: #d62728;">Neuroscience</span>
-    <span style="font-size: 1.5em; color: #9467bd;">Computational biology and bioinformatics</span>
-    <span style="font-size: 1.2em; color: #8c564b;">Cell biology</span>
-    <span style="font-size: 1em; color: #e377c2;">Metabolism</span>
-    <span style="font-size: 1.3em; color: #7f7f7f;">Disease physiology, pathophysiology and aging</span>
-    <span style="font-size: 1.1em; color: #bcbd22;">Oncology</span>
-    <span style="font-size: 1.4em; color: #17becf;">Translational medicine and synthetic biology</span>
-    <span style="font-size: 1em; color: #1f77b4;">Epidemiology</span>
-    <span style="font-size: 1.2em; color: #ff7f0e;">Microbiology (Bacteriology, Parasitology, Virology, Mycology)</span>
-    <span style="font-size: 1.1em; color: #2ca02c;">Ecology and evolutionary biology</span>
-    <span style="font-size: 1.3em; color: #d62728;">Biophysics and mechanobiology</span>
+  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Immunology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Genomes, genetics and epigenetics</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Developmental biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Neuroscience</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Computational biology and bioinformatics</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Cell biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Metabolism</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Disease physiology, pathophysiology and aging</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Oncology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Translational medicine and synthetic biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Epidemiology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Microbiology (Bacteriology, Parasitology, Virology, Mycology)</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Ecology and evolutionary biology</span>
+    <span style="padding: 0.5em 1em; background-color: #f0f0f0; border-radius: 20px;">Biophysics and mechanobiology</span>
   </div>
 </section>
 
+## We can't wait to here more about your work! 🤓
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
   <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a>
