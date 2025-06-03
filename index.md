@@ -26,7 +26,8 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint initiative between <bold>13 Paris-based institutes</bold>. If selected, you'll have the opportunity to present your research at one of these institutes <italic>between September 2025 and May 2026</italic>.</p>
+  <p>Our postdoc consortium is a joint initiative between <bold>13 Paris-based institutes</bold>.<br>
+  If selected, you'll have the opportunity to present your research at one of these institutes <italic>between September 2025 and May 2026</italic>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;">
     <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;">
@@ -66,15 +67,12 @@ nav_order: 1
   </div>
 </section>
 
-## We can't wait to here more about your work! 🤓
+## We can't wait to hear more about your work! 🤓
 
 <footer style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <p>📧 <a href="mailto:paris.postdocs@gmail.com">Contact us</a>
-    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank">
-      <img src="/assets/bluesky-icon.png" alt="Bluesky" style="height: 30px; margin: 0 10px;">
-    </a>
-    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank">
-      <img src="/assets/linkedin-icon.png" alt="LinkedIn" style="height: 30px; margin: 0 10px;">
-    </a>
+  <p>
+    <a href="mailto:paris.postdocs@gmail.com">Contact us</a>
+    <a href="https://bsky.app/profile/parispostdocs.bsky.social" target="_blank"></a>
+    <a href="https://www.linkedin.com/company/paris-postdocs-seminars" target="_blank"></a>
   </p>
 </footer>
