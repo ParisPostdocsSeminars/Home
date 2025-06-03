@@ -5,7 +5,7 @@ date: 2025-06-03
 nav_order: 1
 ---
 
-![Paris Postdocs Logo](/assets/pps_logo.png)
+![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
 
 # Paris Postdocs Seminars
