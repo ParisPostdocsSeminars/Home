@@ -26,7 +26,7 @@ nav_order: 1
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint initiative between <strong>13 Paris-based institutes</strong>. If you get selected, you can present among one of these institutes, between September 2025 to May 2026: </p>
+  <p>Our postdoc consortium is a joint initiative between 13 Paris-based institutes. If selected, you’ll have the opportunity to present your work at one of these institutes between <bold>September 2025 and May 2026</bold></p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;">
     <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;">
@@ -48,7 +48,7 @@ nav_order: 1
 ## Our topics of interest
 
 <section style="max-width: 800px; margin: 2em auto; text-align: center; font-family: sans-serif;">
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(180px, 1fr)); gap: 15px;">
     <span style="font-size: 1.2em; color: #1f77b4;">Immunology</span>
     <span style="font-size: 1.4em; color: #ff7f0e;">Genomes, genetics and epigenetics</span>
     <span style="font-size: 1.1em; color: #2ca02c;">Developmental biology</span>
