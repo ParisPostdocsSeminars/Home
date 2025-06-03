@@ -7,7 +7,7 @@ nav_order: 1
 
 ![Paris Postdocs Seminars Header](/assets/pps_header.png)
 
-<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative; text-align: center;">
+<section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif; position: relative;">
   <p>🧑‍🔬👩‍💻 Are you a postdoc in <strong>Life Sciences</strong> working at a <strong>Paris-based institute</strong>?</p>
   <p>Would you like to share your research beyond your lab and connect with the broader scientific community across Paris?</p>
 
@@ -15,28 +15,27 @@ nav_order: 1
     👉 The <strong>Paris Postdocs Seminars</strong> are looking for new speakers for their <strong>2025–2026 series</strong>!
   </p>
 
-  <div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
-    <p style="flex: 1; text-align: left; margin: 0;">
-      This is your chance to present your work at other top institutes and foster cross-institute collaborations.
-    </p>
-    <p style="flex: 1; text-align: right; margin: 0;">
-      <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5;">🔗 Register here</a>
-    </p>
-  </div>
+  <p>
+    This is your chance to present your work at other top institutes and foster cross-institute collaborations.
+  </p>
+
+  <p>
+    <a href="https://docs.google.com/forms/d/e/1FAIpQLSdnRThSSd43dxS_qsFKbGEQyKuKn4LK7zxMhDNM2US8beSSTg/viewform" target="_blank" style="font-weight: bold; color: #0077b5; text-align: right;">🔗 Register here</a>
+  </p>
 </section>
 
 ## Where will you present?
 <section style="max-width: 800px; margin: 2em auto; padding: 1em; font-family: sans-serif;">
-  <p>Our postdoc consortium is a joint initiative between <strong>13 Paris-based institutes</strong>. If you get selected, you can present among one of these institutes, between September 2025 to May 2026: </p>
+  <p>Our postdoc consortium is a joint initiative between <bold>13 Paris-based institutes</bold>. If selected, you'll have the opportunity to present your research at one of these institutes <italic>between September 2025 and May 2026</italic>.</p>
   <div style="display: flex; flex-wrap: wrap; gap: 1em; justify-content: center;">
     <img src="{{ '/assets/cochin_logo.png' | relative_url }}" alt="Institut Cochin" style="height: 80px;">
     <img src="{{ '/assets/cordeliers_logo.png' | relative_url }}" alt="Institut des Cordeliers" style="height: 80px;">
     <img src="{{ '/assets/curie_logo.jpeg' | relative_url }}" alt=" Institut Curie" style="height: 80px;">
-    <img src="{{ '/assets/ibens_logo.png' | relative_url }}" alt="Institut de l'Ecole Normale Supérieure" style="height: 80px;">
-    <img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences" style="height: 80px;">
+    <img src="{{ '/assets/ibens_logo.png' | relative_url }}" alt="Institut de Biologie de l'Ecole Normale Supérieure" style="height: 80px;">
+    <img src="{{ '/assets/fds-upc_logo.png' | relative_url }}" alt="Université Paris Cité - Faculté des Sciences Fondamentales" style="height: 80px;">
     <img src="{{ '/assets/imagine_logo.png' | relative_url }}" alt="Institut Imagine" style="height: 80px;">
     <img src="{{ '/assets/ijm_logo.png' | relative_url }}" alt="Institut Jacques Monod" style="height: 80px;">
-    <img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Neckerr Enfants Malades" style="height: 80px;">
+    <img src="{{ '/assets/inem_logo.jpeg' | relative_url }}" alt="Institut Necker Enfants Malades" style="height: 80px;">
     <img src="{{ '/assets/ipbs_logo.png' | relative_url }}" alt="Institut Paris Biologie Seine" style="height: 80px;">
     <img src="{{ '/assets/parcc_logo.png' | relative_url }}" alt="Paris Cardiovascular Research Center" style="height: 80px;">
     <img src="{{ '/assets/pasteur_logo.png' | relative_url }}" alt="Institut Pasteur" style="height: 80px;">
